@@ -1,0 +1,9 @@
+B:\Documents\Cronos\Cronos\Cronos\bin\Debug\netcoreapp3.1\Cronos.deps.json
+B:\Documents\Cronos\Cronos\Cronos\bin\Debug\netcoreapp3.1\Cronos.dll
+B:\Documents\Cronos\Cronos\Cronos\bin\Debug\netcoreapp3.1\Cronos.pdb
+B:\Documents\Cronos\Cronos\Cronos\obj\Debug\netcoreapp3.1\Cronos.AssemblyInfoInputs.cache
+B:\Documents\Cronos\Cronos\Cronos\obj\Debug\netcoreapp3.1\Cronos.AssemblyInfo.cs
+B:\Documents\Cronos\Cronos\Cronos\obj\Debug\netcoreapp3.1\Cronos.csproj.CoreCompileInputs.cache
+B:\Documents\Cronos\Cronos\Cronos\obj\Debug\netcoreapp3.1\Cronos.dll
+B:\Documents\Cronos\Cronos\Cronos\obj\Debug\netcoreapp3.1\Cronos.pdb
+B:\Documents\Cronos\Cronos\Cronos\obj\Debug\netcoreapp3.1\Cronos.csprojAssemblyReference.cache

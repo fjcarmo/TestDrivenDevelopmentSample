@@ -1,0 +1,13 @@
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\UnitTestProject\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\UnitTestProject\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\UnitTestProject\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.deps.json
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.runtimeconfig.json
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.runtimeconfig.dev.json
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.dll
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.AssemblyInfoInputs.cache
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.AssemblyInfo.cs
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.csproj.CopyComplete
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.dll
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.genruntimeconfig.cache
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\UnitTestProject\Debug\netcoreapp3.1\UnitTestProject.csprojAssemblyReference.cache

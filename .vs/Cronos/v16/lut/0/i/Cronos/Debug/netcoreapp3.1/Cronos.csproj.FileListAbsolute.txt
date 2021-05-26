@@ -1,0 +1,6 @@
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\Cronos\Debug\netcoreapp3.1\Cronos.deps.json
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\b\Cronos\Debug\netcoreapp3.1\Cronos.dll
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\Cronos\Debug\netcoreapp3.1\Cronos.AssemblyInfoInputs.cache
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\Cronos\Debug\netcoreapp3.1\Cronos.AssemblyInfo.cs
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\Cronos\Debug\netcoreapp3.1\Cronos.csproj.CopyComplete
+B:\Documents\Cronos\Cronos\.vs\Cronos\v16\lut\0\i\Cronos\Debug\netcoreapp3.1\Cronos.dll
